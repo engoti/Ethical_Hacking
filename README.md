@@ -18,7 +18,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/WiFiScannerPasswordCracker.git
+git clone https://github.com/engoti/Ethical_Hacking
 cd WiFiScannerPasswordCracker
 Run the Program:
 
